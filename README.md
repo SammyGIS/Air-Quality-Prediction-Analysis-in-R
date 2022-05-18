@@ -10,5 +10,13 @@ https://aqs.epa.gov/aqsweb/airdata/download_files.html#Annual
 
 ## Study Area
 The Analysis will cover Five States of "South Carolina", "North Carolina", "Georgia", "Kentucky" and "Tennessee"
-![image](https://user-images.githubusercontent.com/60210384/168988924-6e6e138d-aa60-4f0f-89c4-0bbaa1350eac.png)
+![image](https://user-images.githubusercontent.com/60210384/168989439-71b36df9-292d-4dc4-9385-5f516159b219.png)
+
+
+
+# Datasets
+* Nitrogen dioxide (NO2)
+* Ozone (03)
+* PM2.5 Local conditions
+
 
