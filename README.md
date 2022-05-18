@@ -1,10 +1,10 @@
-# IDW Interpolation Prediction Analysis inn R
+# IDW Interpolation Prediction Analysis in R
 Using Inverse Distance Weighting (IDW) interpolation to create prediction surfaces in R.
-Using R to create interpolation (IDW) surfaces to predict distribution of N02, PM_25 and O3 from Air Quality data collected from sensors across USA.
+IDW method was used to predict distribution of N02, PM_25 and O3 of Air Quality data collected from sensors across USA.
 
 
 ## Data Source
-The EPA provides many prepared datasets. Airquality data for year 2000 will be used in this analysis
+The EPA provides many prepared datasets. Air quality data for year 2000 was used in this analysis
 In this exercise, the Annual Summary Data  for will be used – Concentrations by Monitor:
 https://aqs.epa.gov/aqsweb/airdata/download_files.html#Annual
 
